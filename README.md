@@ -7,11 +7,17 @@ Clear - https://www.reddit.com/r/Malware/comments/11gy7h1/list_of_ransomware_gro
 
 Search Engines (TOR)
 http://oniondxjxs2mzjkbz7ldlflenh6huksestjsisc3usxht3wqgk6a62yd.onion/
-http://xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion/
+TORCH - http://xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion/
 http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/
 http://3bbad7fauom4d6sgppalyqddsqbf5u5p56b5k5uk2zxsy3d6ey2jobad.onion/
 https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/
 
 Verified 7/27
 Lock Bit - http://lockbit7z2jwcskxpbokpemdxmltipntwlkmidcll2qirbu7ykg46eyd.onion/
+cl0p - http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion/
 Cryp70n1c0d3 - http://7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion/databases.html
+NullBulge – https://nullbulge.co/blog.html
+
+MarketPlaces
+RansomwWatch - https://ransomwatch.telemetry.ltd/#/profiles
+RansomLook - https://www.ransomlook.io/groups
